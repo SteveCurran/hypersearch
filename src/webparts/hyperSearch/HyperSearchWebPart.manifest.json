@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "8275048e-4438-4377-8d3e-1e0b13c119b2",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "8275048e-4438-4377-8d3e-1e0b13c119b2",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HyperSearch" },
+    "description": { "default": "Search on Steroids" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HyperSearch",
+      "preview":true,
+      "displayprops":"",
+      "enableView":false
+    }
+  }]
+}

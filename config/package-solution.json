@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hypersearch-client-side-solution",
+    "id": "8ef11c0e-b173-4a21-83b4-77d2b057a765",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "hypersearch.spapp"
+  }
+}
